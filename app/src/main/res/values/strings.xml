@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Github browser</string>
+    <string name="download_data_error">Error has occured. We couldn\'t download a data.</string>
+    <string name="repo_name">Repo name</string>
+    <string name="find_repo">Find the repository</string>
+    <string name="find">Find</string>
+
+    <string name="by_name">By name</string>
+    <string name="by_language">By language</string>
+    <string name="by_rating">By rating</string>
+
+
+</resources>
